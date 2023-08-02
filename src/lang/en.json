@@ -1,0 +1,4 @@
+{
+  "app.start": "Hello World! {name}",
+  "app.sub": "有翻譯文字"
+}
